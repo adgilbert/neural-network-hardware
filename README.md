@@ -1,4 +1,4 @@
-# NN_hardware
+# VLSI implementation of a neural network
 
 This repository contains the documentation for our class project in the VLSI Design class at the University of Utah in Fall of 2015. This project was put together by Andy Gilbert, Calli Clark, and Tom Becnel. 
 
